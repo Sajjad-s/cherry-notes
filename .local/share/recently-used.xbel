@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/huayra/snap/cherrytree/28/MyNote.ctb" added="2020-12-26T07:47:21Z" modified="2021-01-22T12:22:30Z" visited="2020-12-26T07:47:21Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="cherrytree" exec="&apos;cherrytree %u&apos;" modified="2021-01-22T12:22:30Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huayra/snap/cherrytree/28/Java.ctb" added="2021-01-06T07:50:43Z" modified="2021-01-23T11:04:50Z" visited="2021-01-06T07:50:44Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="cherrytree" exec="&apos;cherrytree %u&apos;" modified="2021-01-23T11:04:50Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/huayra/snap/cherrytree/28/Backup.ctb" added="2021-01-22T12:22:45Z" modified="2021-01-22T12:22:45Z" visited="2021-01-22T12:22:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="cherrytree" exec="&apos;cherrytree %u&apos;" modified="2021-01-22T12:22:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>
